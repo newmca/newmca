@@ -2,7 +2,7 @@
 
 - Currently working on Project September and Project Kira
   - Project September is a first person survival horror game revolving around challenging puzzles and immersive interactions. It follows an unnamed protagonist venturing into a long-abandoned secret research complex, uncovering long forgotten secrets.
-  - Project Kira is a first person "boomer" shooter set in the far future. It follows a getaway driver named Amba who, in a bid to outrun the law, gets stranded on an uncharted alien planet populated by a peaceful folk enslaved by imperialistic alien race from the darker corners of the galaxy. 
+  - Project Kira is a first person "boomer" shooter set in the far future. It follows a getaway driver named Amba who, in a bid to outrun the law, gets stranded on an uncharted alien planet populated by a peaceful folk enslaved by imperialistic alien race from the darker corners of the galaxy. Yeah I know it sounds dumb but it'll be cool I promise lol!
 - I’m currently learning Unreal Engine, C++, Elixir, Kubernetes
 - 🤔 I’m looking for help with
   - ideas regarding moving my life off the cloud
